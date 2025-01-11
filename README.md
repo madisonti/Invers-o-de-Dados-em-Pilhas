@@ -14,11 +14,11 @@
 <h1>Estrutura do Código</h1>
 <h2>Definições</h2>
  <pre>             
-   #define con 9: Define o tamanho fixo da pilha.
-   Estrutura emppilha:
-   dados: Array que armazena os elementos da pilha.   
-   inicio: Marcador para o início da pilha. 
-   topo: Marcador para o topo da pilha.   
+define con 9: Define o tamanho fixo da pilha.
+Estrutura emppilha:
+dados: Array que armazena os elementos da pilha.   
+inicio: Marcador para o início da pilha. 
+topo: Marcador para o topo da pilha.   
    </pre>
   <h2> Funções</h2>
   <pre>
